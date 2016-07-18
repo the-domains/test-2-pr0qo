@@ -1,0 +1,14 @@
+layout_spectrum: 0.48158085136674345
+typography_spectrum: 0.8412618164438754
+color:
+  brandStrength: 0.8259647013619542
+  lightness: 0.2587151685729623
+  saturation: 0.8184509831480682
+  rhythmicContrast: 0.741399307968095
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Test 2
